@@ -5,7 +5,7 @@ from typing import List
 PROJECT_NAME = "finance-complaint"
 VERSION = "0.0.4"
 AUTHOR = "Abhinav kumar"
-DESRCIPTION = "This is finacne complain Project"
+DESRCIPTION = "This is finance complain Project"
 
 REQUIREMENT_FILE_NAME = "requirements.txt"
 
