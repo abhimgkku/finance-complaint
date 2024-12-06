@@ -4,8 +4,8 @@ from typing import List
 # Declaring variables for setup functions
 PROJECT_NAME = "finance-complaint"
 VERSION = "0.0.4"
-AUTHOR = "Avnish Yadav"
-DESRCIPTION = "This is a sample for industry ready solution"
+AUTHOR = "Abhinav kumar"
+DESRCIPTION = "This is finacne complain Project"
 
 REQUIREMENT_FILE_NAME = "requirements.txt"
 
